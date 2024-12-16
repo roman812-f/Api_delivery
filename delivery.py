@@ -1,7 +1,5 @@
-import termcolor
 from flask import Flask, request, jsonify
 import sqlite3
-from termcolor import colored
 from generate_track import generate
 
 app = Flask('delivery')
