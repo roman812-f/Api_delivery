@@ -2,7 +2,7 @@
 
 - ***установить модули requirements.txt***
   ```bash
-  pip install requirements.txt
+  pip install -r requirements.txt
   ```
 - ***запустить файл data.py***
   ```bash
